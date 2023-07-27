@@ -1,0 +1,32 @@
+.odrec {
+    text-align: center;
+}
+
+.bordered {
+    background-color:rgb(161, 224, 178);
+    padding: 30px;
+    display: block;
+}
+
+.loose{
+    list-style-type: none;
+}
+
+.btn{
+    font-size: 15px;
+    background-color: rgb(153, 61, 61);
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+    color: white;
+    transition-property: all;
+    transition-duration: .3s;
+    transition-delay: 0s;
+    transition-timing-function: ease;
+    margin: 10px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background-color: rgb(161, 224, 178);
+    color: black;
+}
