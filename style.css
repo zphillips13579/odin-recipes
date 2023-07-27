@@ -1,5 +1,6 @@
 .odrec {
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .bordered {
@@ -14,7 +15,7 @@
 
 .btn{
     font-size: 15px;
-    background-color: rgb(153, 61, 61);
+    background-color: rgb(238, 103, 103);
     display: inline-block;
     padding: 10px 10px 10px 10px;
     color: white;
@@ -29,4 +30,17 @@
 .btn:hover {
     background-color: rgb(161, 224, 178);
     color: black;
+}
+
+.section{
+    background-color: rgb(238, 103, 103);
+}
+
+h6{
+    font-weight: 100px;
+    color: lightslategray;
+}
+
+.left{
+    text-align: left;
 }
